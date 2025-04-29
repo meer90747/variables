@@ -1,0 +1,53 @@
+# variables programming ka 1 zaroori concept he, jo har language me hota he 
+# ye 1 container hota he jo apne andar temprorily apne andar rakhta he 
+# number text ya or koi data 
+# data store krne k liye use hota he, jo specific value ko store krta he 
+# 
+x = 5         # int
+y = "sohail"  # str
+z = 5.5       # float
+print (x)
+print (y)
+print (z)
+
+#is codes me xyz ye variables he baqi jo uska output he ye uski values he jo wo store kr rha he
+#jese x ko mene value di 5 ki
+#y ko di sohail
+#z ko di mene 5.5 ki ye in variables ki value he jo wo store kr rha he 
+
+# integer     int = whole number                     X = 100
+# floating    float = decimal number                 y = 10.5
+# complex     complex = complex number               z = 10 + 10t
+# string      str = text (string)                    name = "sohail"
+# boolean     bool = true or false values            is_active = true
+# list        list = mutable ordered collection      fruits = ["apple"]
+# tuple       immutable ordered collection           cooords = ( 1,   5)
+# dict        key-value pairs                        data = {"key": "value"}
+# set         unordered unique values                s = {1, 2, 4}
+# NoneType    represent no value                     val = none
+
+x = 10 + 10
+print ("type", (x))
+
+y = 10 - 10 
+print ("type", y  )
+
+
+is_active = True
+print (is_active)
+
+
+fruit = ("cherry", "mango", "apple", "etc")
+print(fruit)
+
+
+data = {"sohail": "24"}
+print(data)
+
+
+s = (2, 4, 6, 10, 12,)
+print(s)
+
+
+val = (40, "none")
+print(val)
